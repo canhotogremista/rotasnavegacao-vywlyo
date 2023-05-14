@@ -26,6 +26,7 @@ import { MultiTabelaDetalheComponent } from './../multi-tabela-detalhe/multi-tab
     BarraNavegacaoComponent,
     HomeComponent,
     MultiTabelaComponent,
+    MultiTabelaDetalheComponent,
     SobreComponent,
   ],
   bootstrap: [RaizComponent],
